@@ -46,7 +46,3 @@ class Game:
             return
 
         print(f"{self.enemy.name} Winner")
-
-
-game = Game()
-game.start()
